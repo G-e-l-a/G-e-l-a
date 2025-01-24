@@ -25,10 +25,6 @@ Quelle: [MatrixHacker](https://github.com/Artikel-278-VV/Artikel-278-VV/blob/mai
 - 😄 Pronomen: ...
 - ⚡ Interessante Tatsache: ...
 
-## 📈 GitHub-Statistiken
-
-![Ihre GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=Artikel-278-VV&show_icons=true&theme=radical)
-
 ## 🔗 Mit mir in Verbindung treten
 
 - [Github](https://github.com/Artikel-278-VV/Artikel-278-VV/discussions)
@@ -42,10 +38,6 @@ Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag
 
 & Bro von [MatrixHacker](https://github.com/Znih) ©® [zfV.](https://www.copyright.gov/fair-use/)
 
-<!---
-G-e-l-a/G-e-l-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ### WhatsApp Happen
 
@@ -73,10 +65,10 @@ You can click the Preview link to take a look at your changes.
 
 https://github.com/user-attachments/assets/7d26eb82-9577-468e-8505-73bb95e1b1f3
 
-
-Beginne Bearbeitung ... @g-e-l-a
-
-![Bildschirmfoto vom 2025-01-22 02-42-03](https://github.com/user-attachments/assets/aba5b8e0-ba42-452c-9bf3-4a84f555b778)
+<!---
+G-e-l-a/G-e-l-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 # Copilt meint dazu
 
